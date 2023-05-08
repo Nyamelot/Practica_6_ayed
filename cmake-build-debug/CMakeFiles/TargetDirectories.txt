@@ -1,0 +1,7 @@
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/maze/CMakeFiles/edit_cache.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/maze/CMakeFiles/rebuild_cache.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/maze/src/CMakeFiles/maze.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/maze/src/CMakeFiles/edit_cache.dir
+/home/nyan/practicas/Ayed/Practica06-Ayed/cmake-build-debug/maze/src/CMakeFiles/rebuild_cache.dir
