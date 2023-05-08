@@ -8,7 +8,7 @@
 //              "C++ Programming Style Guidelines"
 //              https://geosoft.no/development/cppstyle.html
 
-#include "maze_t.hpp"
+#include "maze_t.h"
 
 
 // constructor

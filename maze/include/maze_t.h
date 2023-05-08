@@ -11,7 +11,7 @@
 #pragma once 
 
 #include <iostream>
-#include "matrix_t.hpp"
+#include "matrix_t.h"
 
 #define TRACE(x) cout << (#x) << "= " << (x) << endl
 

@@ -11,7 +11,7 @@
 // g++ main_maze_t.cpp maze_t.cpp -o main_maze_t
 
 #include <iostream>
-#include "maze_t.hpp"
+#include "maze_t.h"
 
 using namespace std;
 
