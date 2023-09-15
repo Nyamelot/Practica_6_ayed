@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15 FATAL_ERROR)
+hf2reghhocmake_minimum_required(VERSION 3.15 FATAL_ERROR)
 project("Ayed Practica 6"
         VERSION 1.0.0
         DESCRIPTION ""
