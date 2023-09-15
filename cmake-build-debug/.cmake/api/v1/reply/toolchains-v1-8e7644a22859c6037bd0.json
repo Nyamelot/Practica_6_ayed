@@ -18,17 +18,17 @@
 				{
 					"includeDirectories" : 
 					[
-						"/usr/include/c++/13.1.1",
-						"/usr/include/c++/13.1.1/x86_64-pc-linux-gnu",
-						"/usr/include/c++/13.1.1/backward",
-						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include",
+						"/usr/include/c++/13.2.1",
+						"/usr/include/c++/13.2.1/x86_64-pc-linux-gnu",
+						"/usr/include/c++/13.2.1/backward",
+						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include",
 						"/usr/local/include",
-						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include-fixed",
+						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include-fixed",
 						"/usr/include"
 					],
 					"linkDirectories" : 
 					[
-						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1",
+						"/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1",
 						"/usr/lib",
 						"/lib"
 					],
@@ -45,7 +45,7 @@
 					]
 				},
 				"path" : "/usr/bin/c++",
-				"version" : "13.1.1"
+				"version" : "13.2.1"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 

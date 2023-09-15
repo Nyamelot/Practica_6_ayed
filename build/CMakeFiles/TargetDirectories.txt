@@ -1,7 +1,0 @@
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/CMakeFiles/edit_cache.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/CMakeFiles/rebuild_cache.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/maze/CMakeFiles/edit_cache.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/maze/CMakeFiles/rebuild_cache.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/maze/src/CMakeFiles/maze.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/maze/src/CMakeFiles/edit_cache.dir
-/home/nyan/practicas/Ayed/Practica06-Ayed/build/maze/src/CMakeFiles/rebuild_cache.dir

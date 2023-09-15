@@ -82,7 +82,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "maze::@4da7e26bbc1f26763951",
-					"jsonFile" : "target-maze-Debug-e2358d36666405ef0171.json",
+					"jsonFile" : "target-maze-Debug-6b9c11fa404146adb739.json",
 					"name" : "maze",
 					"projectIndex" : 1
 				}
@@ -98,6 +98,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
